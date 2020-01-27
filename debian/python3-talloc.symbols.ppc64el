@@ -1,0 +1,3 @@
+libpytalloc-util.cpython-38-powerpc64le-linux-gnu.so.2 python3-talloc #MINVER#
+ PYTALLOC_UTIL.CPYTHON_38_POWERPC64LE_LINUX_GNU_2.3.0@PYTALLOC_UTIL.CPYTHON_38_POWERPC64LE_LINUX_GNU_2.3.0 2.3.0
+#include "python3-talloc.symbols.common"
