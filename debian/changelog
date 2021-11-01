@@ -1,3 +1,10 @@
+talloc (2.3.1-0ubuntu0.20.04.1) focal-security; urgency=medium
+
+  * Updated to upstream 2.3.1 as required by Samba security update.
+    - debian/*symbols*: updated for new version.
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Mon, 01 Nov 2021 14:24:58 -0400
+
 talloc (2.3.0-3ubuntu1) focal; urgency=medium
 
   * d/python3-talloc.install: update globbing for python 3.8
